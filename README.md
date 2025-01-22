@@ -26,6 +26,7 @@ Advanced Querying Techniques:
 Performance Metrics:
 
    Found the average age of patients diagnosed with specific illnesses (e.g., flu).
+   
    Retrieved staff job titles and their assigned roles in the cafeteria.
 
 Key SQL Skills Demonstrated:
